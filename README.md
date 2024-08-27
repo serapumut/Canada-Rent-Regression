@@ -1,8 +1,12 @@
 # Canada-Rent-Regression
 In this project, I will work with a [dataset](https://github.com/serapumut/Canada-Rent-Regression/blob/main/Data/canada_rent.csv) containing rental prices for units in across Canada in 2024.  
+
 Dataset obtained from [rentfaster.ca](https://www.rentfaster.ca/?utm_source=OOH&utm_medium=sign&utm_campaign=ca).  
+
 The data dictionary can be found [here](https://www.kaggle.com/datasets/sergiygavrylov/25000-canadian-rental-housing-market-june-2024).  
+
 My goal is to explore multiple regression models, in order to find a model that predicts the rental price most accurately.  
+
 I’m starting to project by loading packages and dataset.  
 After finding and cleaning missing values, I checked each columns' unique values. In this way, I got clean and useable data by dropping some columns.  
 I used visualization to identify the patterns.  
